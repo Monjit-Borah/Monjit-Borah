@@ -15,9 +15,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Monjit-Borah&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-```
 
-
-```
 **Portfolio:** **[monjit-borah.github.io/monjit-portfolio](https://monjit-borah.github.io/monjit-portfolio/)**

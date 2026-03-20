@@ -15,9 +15,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Monjit-Borah&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-```
 
-The only change made is adding this line at the end of the About Me section, right before the Socials heading:
-```
 🌐 **Portfolio:** **[monjit-borah.github.io/monjit-portfolio](https://monjit-borah.github.io/monjit-portfolio/)**
